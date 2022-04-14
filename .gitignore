@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.*
+*.csv
+*.xls*
+SL_RAT-2.ipynb
